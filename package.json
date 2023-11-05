@@ -1,0 +1,27 @@
+{
+  "name": "intermediate",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host=0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0",
+    "vite-plugin-string": "^1.2.1"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "gsap": "^3.11.4",
+    "mssql": "^9.1.1",
+    "mysql": "^2.18.1",
+    "stringquery": "^1.0.8",
+    "three": "^0.148.0",
+    "three-bmfont-text": "^2.3.0",
+    "three-text-geometry": "^0.0.0",
+    "three-text2d": "^0.6.0",
+    "typeface-droid-serif": "^1.1.13"
+  }
+}

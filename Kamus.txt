@@ -1,0 +1,8 @@
+Data.json Kamus : 
+n1 = Indonesia(Jakarta) (IHSG)
+n2 = America (New York) (DOW JONES)
+n3 = America (New York) (NASDAQ)
+n4 = America (New York) (S&P 500)
+n5 = England (London) (FTSE 100)
+n6 = Japan (Tokyo) (NIKKEI 225)
+n7 = HONG KONG (HANG SHENG)
